@@ -1,4 +1,4 @@
-# ![nezu2](https://github.com/CarGuzRuth7/CarGuzRuth7/assets/104471270/0fd215cb-ab4d-4c19-bb0e-1dcf04274f83) Hola soy Ruth 👋 ![nezu2](https://github.com/CarGuzRuth7/CarGuzRuth7/assets/104471270/0fd215cb-ab4d-4c19-bb0e-1dcf04274f83)
+# ![nezu2](https://github.com/CarGuzRuth7/CarGuzRuth7/assets/104471270/0fd215cb-ab4d-4c19-bb0e-1dcf04274f83) Hola soy Ruth ![nezu2](https://github.com/CarGuzRuth7/CarGuzRuth7/assets/104471270/0fd215cb-ab4d-4c19-bb0e-1dcf04274f83)
 
 
 ### About me 
