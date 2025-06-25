@@ -2,9 +2,9 @@
 
 
 ### About me 
-I'm a Software Development student currently studying at BYU-I. I'm always engaged to learn more about programming and gain the experience to find the best solutions and develop useful programs.
+I'm a Software Development student currently studying at BYU-I. I'm always eager to learn more about programming and gain the experience to find the best solutions and develop useful programs.
 <br>
 - 🔭 I’m currently working on programming challenges and school projects
-- 🌱 I’m currently learning: C#, databases, frontend and backend
+- 🌱 I’m currently learning: React, NextJS and Typescript
 - 💬 Programming languages I learned: Python, JavaScript, SQL, PHP
 - ⚡ Goals: Gain experience in Web Development and find a job
